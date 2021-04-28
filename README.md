@@ -1,7 +1,7 @@
 
 ## Django-Blog:
 This project is hosted @herokuapp.com
-Visit: [https://claryret.herokuapp.com/](url) to view the live demo of this django blog project
+Visit: [claryret](https://claryret.herokuapp.com) to view the live demo of this django blog project
 
 ## Description: 
 ```
